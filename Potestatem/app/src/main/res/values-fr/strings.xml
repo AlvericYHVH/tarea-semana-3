@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">pouvoir</string>
+    <string name="title_name">bienvenue</string>
+    <string name="title_activity_bienvenida">bienvenue</string>
+    <string name="login_button">enregistrer</string>
+</resources>
